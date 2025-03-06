@@ -1,6 +1,6 @@
 # Codetribute README
 
-![Codetribute Banner](Codetribute VS Code extension based on the provided template. Let me start by understanding what Codetribute does from the code. It looks like the extension helps automate GitHub repository creation, tracks file changes in the workspace, ge.jpg) <!-- Add your banner image if available -->
+![Codetribute Banner](https://github.com/zisshh/codetribute/banner.jpg?raw=true) <!-- Add your banner image if available -->
 
 A VS Code extension that supercharges your development workflow with automated GitHub repository management, intelligent activity tracking, and AI-powered insights.
 

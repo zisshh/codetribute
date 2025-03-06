@@ -1,6 +1,6 @@
 # Codetribute README
 
-![Codetribute Banner](https://github.com/zisshh/codetribute/banner.jpg) <!-- Add your banner image if available -->
+![Codetribute Banner](/banner.jpg) <!-- Add your banner image if available -->
 
 A VS Code extension that supercharges your development workflow with automated GitHub repository management, intelligent activity tracking, and AI-powered insights.
 
